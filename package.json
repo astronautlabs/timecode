@@ -20,6 +20,9 @@
     "test": "node --expose-gc node_modules/jest/bin/jest.js --no-cache --runInBand",
     "prepublishOnly": "npm test"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@jest/globals": "^30.2.0",
     "@types/chai": "^5.2.2",
