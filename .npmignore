@@ -2,3 +2,4 @@ node_modules/
 src/**/*.test.ts
 dist/**/*.test.js
 jest.config.ts
+coverage/
