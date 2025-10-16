@@ -4,7 +4,7 @@
   "homepage": "https://github.com/astronautlabs/timecode#readme",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Astronaut Labs, LLC",
   "license": "MIT",
   "bugs": {
